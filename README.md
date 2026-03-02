@@ -29,10 +29,10 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming & Scripting
-`Python` `C++` `C` `SQL`
+`Python` `C++` `C` `SQL` `R Programming`
 
 ### 📊 Data Analytics & Visualization
-`NumPy` `Pandas` `Matplotlib` `Seaborn`
+`NumPy` `Pandas` `Matplotlib` `Seaborn `
 
 ### 📈 BI & Tools
 `Power BI` `Excel`
@@ -58,13 +58,6 @@
 - Data-driven applications  
 - Problem solving using DSA  
 - Real-world project building  
-
----
-
-## 📊 GitHub Statistics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=apoorva-16-2006&show_icons=true&theme=radical)
-
 
 ---
 
